@@ -1,0 +1,8 @@
+{
+  "name": "@sharproduction/production-delivery-manifest-validator",
+  "version": "1.0.0",
+  "exports": "./bin/cli.mjs",
+  "license": "MIT",
+  "homepage": "https://sharprod.com/",
+  "description": "SHAR Production CLI for validating rights-labelled production delivery manifests before release."
+}
