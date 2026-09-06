@@ -1,0 +1,10 @@
+{
+  "name": "@sharproduction/production-delivery-manifest-validator",
+  "version": "1.0.0",
+  "description": "Validate rights-labelled production delivery manifests before release.",
+  "type": "module",
+  "license": "MIT",
+  "bin": { "shar-delivery-manifest": "bin/cli.mjs" },
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
