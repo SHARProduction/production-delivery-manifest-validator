@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sharproduction.github.io/production-delivery-manifest-validator/sitemap.xml
